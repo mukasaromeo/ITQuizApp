@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">IT Quiz App</string>
+
+    <string name="question1">1.In which decade was the American Institute of Electrical Engineers (AIEE) founded?</string>
+    <string name="question1_choice1">1850s</string>
+    <string name="question1_choice2">1880s</string>
+    <string name="question1_choice3">1930s</string>
+
+    <string name="question2">2. What is part of a database that holds only one type of information?</string>
+
+    <string name="question3">3. OS computer abbreviation usually means ?</string>
+    <string name="question3_choice1">Order of Significance</string>
+    <string name="question3_choice2">Open Software</string>
+    <string name="question3_choice3">Operating System</string>
+    <string name="question3_choice4">Optical Sensor</string>
+
+    <string name="question4">4. Which is a type of Electrically-Erasable Programmable Read-Only Memory?</string>
+
+    <string name="question5">5. Who is largely responsible for breaking the German Enigma codes, created a test that provided a foundation for artificial intelligence?</string>
+    <string name="question5_choice1">Alan Turing</string>
+    <string name="question5_choice2">George Boole</string>
+    <string name="question5_choice3">Charles Babbage</string>
+
+    <string name="question6">6. Who developed Yahoo?</string>
+
+    <string name="question7">7. Made from a variety of materials, such as carbon, which inhibits the flow of current?</string>
+    <string name="question7_choice1">Choke</string>
+    <string name="question7_choice2">Inductor</string>
+    <string name="question7_choice3">Resistor</string>
+    <string name="question7_choice4">Capacitor</string>
+
+    <string name="question8">8. The first step to getting output from a laser is to excite an active medium. What is this process called?</string>
+
+    <string name="question9">9. Which motor is NOT suitable for use as a DC machine?</string>
+    <string name="question9_choice1">Permanent magnet motor</string>
+    <string name="question9_choice2">Squirrel cage motor</string>
+
+    <string name="question10">10. In which year was MIDI(Musical Instrument Digital Interface) introduced?</string>
+
+    <string name="submit_answers">Check Score</string>
+</resources>
